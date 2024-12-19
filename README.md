@@ -1,0 +1,3 @@
+# Advanced Simulated Annealing Implementation
+
+This repository contains a sophisticated implementation of the Simulated Annealing algorithm, a probabilistic technique for approximating the global optimum of a given function. The implementation showcases advanced design patterns and demonstrates the algorithm through a Traveling Salesman Problem (TSP) solver. Simulated annealing mimics the physical process of heating a material and then slowly lowering the temperature to decrease defects, thus minimizing the system's energy. In our implementation, this natural process is replicated using various cooling schedules, including an adaptive approach that responds to the optimization progress in real-time.

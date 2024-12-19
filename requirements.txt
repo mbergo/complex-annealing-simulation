@@ -1,0 +1,4 @@
+numpy>=1.21.0
+typing-extensions>=4.0.0
+logging>=0.5.1.2
+dataclasses>=0.8; python_version < '3.7'
